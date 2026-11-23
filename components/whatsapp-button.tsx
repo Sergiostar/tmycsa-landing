@@ -1,5 +1,5 @@
 // Reemplaza las X con el número real (código de país + número, sin espacios ni signos).
-const WHATSAPP_NUMBER = '521XXXXXXXXXX'
+const WHATSAPP_NUMBER = '5216621814916'
 const WHATSAPP_MESSAGE =
   'Hola, vengo de la web de TM&C. Me gustaría recibir asesoría técnica para un proyecto.'
 
