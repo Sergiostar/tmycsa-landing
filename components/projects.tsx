@@ -5,13 +5,13 @@ import { SectionHeading } from '@/components/section-heading'
 const projects = [
   {
     title: 'Impermeabilización en Mina',
-    image: '/images/proyecto-mina.png',
+    image: '/images/proyecto-mina.webp',
     alt: 'Vista aérea de una pileta minera revestida con geomembrana negra',
     wide: true,
   },
   {
     title: 'Tendido en Piletas',
-    image: '/images/proyecto-piletas-tendido.png',
+    image: '/images/proyecto-piletas-tendido.webp',
     alt: 'Personal tendiendo geomembrana en un reservorio de agua',
   },
   {
